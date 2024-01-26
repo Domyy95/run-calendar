@@ -29,7 +29,7 @@ Share your calendar with the email address associated with the service account (
 - Interactively prompts the user to add events to their Google Calendar.
 - Integrates with the Google Calendar API to create events.
 
-## Usage
+## Usage
 1. Set the Fisky calendar URL in the 'url' variable.
 2. Run the script to fetch and display upcoming events.
 3. Choose whether to add each event to your Google Calendar.
